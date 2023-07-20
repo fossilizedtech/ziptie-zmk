@@ -3,7 +3,7 @@ if SHIELD_ZIPTIE
 config ZMK_KEYBOARD_NAME
     default "Ziptie"
 
-config ZMK_USB
+config ZMK_BLE
     default y
 
 endif
