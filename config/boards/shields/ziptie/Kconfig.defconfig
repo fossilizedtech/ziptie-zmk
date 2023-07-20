@@ -1,6 +1,6 @@
-if ZIPTIE
+if SHIELD_ZIPTIE
 
-config ZIPTIE
+config ZMK_KEYBOARD_NAME
     default "Ziptie"
 
 endif

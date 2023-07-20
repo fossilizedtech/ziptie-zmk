@@ -1,2 +1,2 @@
-config ZIPTIE
+config SHIELD_ZIPTIE
     def_bool $(shields_list_contains, ziptie)
