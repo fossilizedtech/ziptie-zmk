@@ -1,0 +1,8 @@
+file_format: "1"
+id: ziptie
+name: Ziptie
+type: shield
+url: https://github.com/fossilizedtech/ziptie-keyboard
+requires: [pro_micro]
+features:
+  - keys

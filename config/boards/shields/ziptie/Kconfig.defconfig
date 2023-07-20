@@ -1,0 +1,6 @@
+if ZIPTIE
+
+config ZIPTIE
+    default "Ziptie"
+
+endif
