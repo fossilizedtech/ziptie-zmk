@@ -3,7 +3,11 @@ if SHIELD_ZIPTIE
 config ZMK_KEYBOARD_NAME
     default "Ziptie"
 
+config USB_DEVICE_PRODUCT
+    default ZMK_KEYBOARD_NAME
+
 config ZMK_USB
-    default y
+    bool "USB"
+    select USB
 
 endif
